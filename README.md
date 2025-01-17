@@ -1,4 +1,4 @@
-# Resume-Grifter-Checker
+# Resume-Grifter-Checker using LangChain
 A tool to upload resumes and verify the claims made by cross-referencing them with the candidate's GitHub profile.
 
 # Features
